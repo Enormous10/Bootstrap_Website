@@ -1,0 +1,6 @@
+.container h1, p {
+    color: black;
+}
+.post {
+    border-bottom: 1px solid gray;
+}
